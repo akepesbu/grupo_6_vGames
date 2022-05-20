@@ -1,7 +1,7 @@
 En este e-commerce se venderán productos relacionados con videojuegos (Consolas, juegos, complementos para las consolas, monitores, tarjetas de video, accesorios geek, tricks, tarjetas de recarga de suscripción, etc).
 Está dirigido personas de todas las edades, géneros apasionados por los video juegos.
 
-Equipo conformado por: Ezequiel Galarza, Sergio Andres Pinilla, Juan Garcia, Rodrigo Arcibia.
+Equipo conformado por: Ezequiel Galarza, Sergio Pinilla, Juan Garcia, Rodrigo Arcibia.
 
 Ezequiel Galarza: Gamer y estudiante.
 Sergio Pinilla: Técnico en petróleos.
