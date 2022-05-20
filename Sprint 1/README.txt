@@ -4,7 +4,7 @@ Está dirigido personas de todas las edades, géneros apasionados por los video 
 Equipo conformado por: Ezequiel Galarza, Sergio Andres Pinilla, Juan Garcia, Rodrigo Arcibia.
 
 Ezequiel Galarza: Gamer y estudiante.
-Sergio Andres Pinilla: Técnico en petróleos.
+Sergio Pinilla: Técnico en petróleos.
 Juan Garcia: Ingeniero Eléctrico.
 Rodrigo Arcibia: Ingeniero Civil.
 Alejandro Kepes: Ingeniero de Sistemas.
